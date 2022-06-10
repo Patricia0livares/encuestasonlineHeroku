@@ -3,10 +3,10 @@
 
 ## Tabla de Contenidos
 
-## Informacion General 
+## Información General 
 Aplicación para ofrecer servicios de gestión encuestas. Con perfil de administración, encuestador y usuario.
 
-## Tecnologias
+## Tecnologías
 Este proyecto fue creado usando:
 * HTML
 * CSS
@@ -15,7 +15,7 @@ Este proyecto fue creado usando:
 * JQuery
 * Crispy Forms
 
-## Instalacion
+## Instalación
 Puede descargar este proyecto desde https://github.com/Patricia0livares
 
 ## Instrucciones para instalación
